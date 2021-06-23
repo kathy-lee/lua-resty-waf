@@ -2,13 +2,13 @@ package = "lua-resty-waf"
 version = "0.11.1-2"
 source = {
    url = "gitrec+https://github.com/kathy-lee/lua-resty-waf",
-   tag = "feature/arm"
+   tag = "feature/arm",
 }
 description = {
    summary = "High-performance WAF built on the OpenResty stack",
    homepage = "https://github.com/p0pr0ck5/lua-resty-waf",
    license = "GNU GPLv3",
-   maintainer = "Robert Paprocki <robert@cryptobells.com>"
+   maintainer = "Robert Paprocki robert@cryptobells.com"
 }
 dependencies = {
    "lua >= 5.1",
