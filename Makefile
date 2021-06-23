@@ -81,7 +81,7 @@ lua-resty-htmlentities:
 	cp $@/libhtmlentities.so lib/
 
 libinjection:
-	cd $@ && make
+	cd $@ && make all
 	cp $@/src/$@.so lib/
 
 test-unit:
