@@ -8,7 +8,6 @@ description = {
    summary = "High-performance WAF built on the OpenResty stack",
    homepage = "https://github.com/p0pr0ck5/lua-resty-waf",
    license = "GNU GPLv3",
-   maintainer = "Robert Paprocki robert@cryptobells.com"
 }
 dependencies = {
    "lua >= 5.1",
